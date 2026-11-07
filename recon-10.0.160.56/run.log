@@ -1,0 +1,5 @@
+[15:02:05] Target: 10.0.160.56
+[15:02:05] Output: ./recon-10.0.160.56
+[15:02:05] Not running as root — using TCP connect scan (-sT), slower but no privileges needed.
+[15:02:05] [1/4] Full TCP port sweep (all 65535 ports)...
+Starting Nmap 7.991 ( https://nmap.org ) at 2026-10-26 15:02 +0000
